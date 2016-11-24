@@ -81,6 +81,7 @@ summarize(testtrain_grp_df, a = mean(tBodyAcc_mean_X, na.rm = TRUE))
 
 testtrain_tidy_df <- testtrain_grp_df %>% summarise_each(funs(mean(., na.rm = TRUE)))
 
+testtrain_tidy_df ##this is the final output
 
 ###The generated text file with the tidy data set has the mean for each variable for 
 ### each subject and each activity.
