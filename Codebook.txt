@@ -1,0 +1,420 @@
+Field Name	
+	Length	
+	Field Description	
+	Possible Values	
+
+subject	
+	2	
+	Subject ID. Identifies the subject who recorded the measurement	
+	1 … 30	
+
+activity	
+	25	
+	Activity Description	
+	WALKING (1)
+	WALKING_UPSTAIRS (2)
+	WALKING_DOWNSTAIRS (3)
+	SITTING (4)
+	STANDING (5)
+	LAYING (6)	
+
+activity_id	
+	1	
+	Activity ID. Identifies one of the 6 unique activities	
+	1 … 6	
+
+tBodyAcc_mean_X	
+	25	
+	Time domain, Body Acceleration, mean value along X axis	
+	-1 … 1	
+
+tBodyAcc_mean_Y	
+	25	
+	Time domain, Body Acceleration, mean value along Y axis	
+	-1 … 1	
+
+tBodyAcc_mean_Z	
+	25	
+	Time domain, Body Acceleration, mean value along Z axis	
+	-1 … 1	
+
+tBodyAcc_std_X	
+	25	
+	Time domain, Body Acceleration, std dev value along X axis	
+	-1 … 1	
+
+tBodyAcc_std_Y	
+	25	
+	Time domain, Body Acceleration, std dev value along Y axis	
+	-1 … 1	
+
+tBodyAcc_std_Z	
+	25	
+	Time domain, Body Acceleration, std dev value along Z axis	
+	-1 … 1	
+
+tGravityAcc_mean_X	
+	25	
+	Time domain, Gravity Acceleration, mean value along X axis	
+	-1 … 1	
+
+tGravityAcc_mean_Y	
+	25	
+	Time domain, Gravity Acceleration, mean value along Y axis	
+	-1 … 1	
+
+tGravityAcc_mean_Z	
+	25	
+	Time domain, Gravity Acceleration, mean value along Z axis	
+	-1 … 1	
+
+tGravityAcc_std_X	
+	25	
+	Time domain, Gravity Acceleration, std dev value along X axis	
+	-1 … 1	
+
+tGravityAcc_std_Y	
+	25	
+	Time domain, Gravity Acceleration, std dev value along Y axis	
+	-1 … 1	
+
+tGravityAcc_std_Z	
+	25	
+	Time domain, Gravity Acceleration, std dev value along Z axis	
+	-1 … 1	
+
+tBodyAccJerk_mean_X	
+	25	
+	Time domain, Body Acceleration Jerk, mean value along X axis	
+	-1 … 1	
+
+tBodyAccJerk_mean_Y	
+	25	
+	Time domain, Body Acceleration Jerk, mean value along Y axis	
+	-1 … 1	
+
+tBodyAccJerk_mean_Z	
+	25	
+	Time domain, Body Acceleration Jerk, mean value along Z axis	
+	-1 … 1	
+
+tBodyAccJerk_std_X	
+	25	
+	Time domain, Body Acceleration Jerk, std dev value along X axis	
+	-1 … 1	
+
+tBodyAccJerk_std_Y	
+	25	
+	Time domain, Body Acceleration Jerk, std dev value along Y axis	
+	-1 … 1	
+
+tBodyAccJerk_std_Z	
+	25	
+	Time domain, Body Acceleration Jerk, std dev value along Z axis	
+	-1 … 1	
+
+tBodyGyro_mean_X	
+	25	
+	Time domain, Body Gyro, mean value along X axis	
+	-1 … 1	
+
+tBodyGyro_mean_Y	
+	25	
+	Time domain, Body Gyro, mean value along Y axis	
+	-1 … 1	
+
+tBodyGyro_mean_Z	
+	25	
+	Time domain, Body Gyro, mean value along Z axis	
+	-1 … 1	
+
+tBodyGyro_std_X	
+	25	
+	Time domain, Body Gyro, std dev value along X axis	
+	-1 … 1	
+
+tBodyGyro_std_Y	
+	25	
+	Time domain, Body Gyro, std dev value along Y axis	
+	-1 … 1	
+
+tBodyGyro_std_Z	
+	25	
+	Time domain, Body Gyro, std dev value along Z axis	
+	-1 … 1	
+
+tBodyGyroJerk_mean_X	
+	25	
+	Time domain, Body Gyro Jerk, mean value along X axis	
+	-1 … 1	
+
+tBodyGyroJerk_mean_Y	
+	25	
+	Time domain, Body Gyro Jerk, mean value along Y axis	
+	-1 … 1	
+
+tBodyGyroJerk_mean_Z	
+	25	
+	Time domain, Body Gyro Jerk, mean value along Z axis	
+	-1 … 1	
+
+tBodyGyroJerk_std_X	
+	25	
+	Time domain, Body Gyro Jerk, std dev value along X axis	
+	-1 … 1	
+
+tBodyGyroJerk_std_Y	
+	25	
+	Time domain, Body Gyro Jerk, std dev value along Y axis	
+	-1 … 1	
+
+tBodyGyroJerk_std_Z	
+	25	
+	Time domain, Body Gyro Jerk, std dev value along Z axis	
+	-1 … 1	
+
+tBodyAccMag_mean	
+	25	
+	Time domain, Body Acceleration Mag, mean value	
+	-1 … 1	
+
+tBodyAccMag_std	
+	25	
+	Time domain, Body Acceleration Mag, std dev value	
+	-1 … 1	
+
+tGravityAccMag_mean	
+	25	
+	Time domain, Gravity Acceleration Mag, mean value	
+	-1 … 1	
+
+tGravityAccMag_std	
+	25	
+	Time domain, Gravity Acceleration Mag, std dev value	
+	-1 … 1	
+
+tBodyAccJerkMag_mean	
+	25	
+	Time domain, Body Acceleration Jerk Mag, mean value	
+	-1 … 1	
+
+tBodyAccJerkMag_std	
+	25	
+	Time domain, Body Acceleration Jerk Mag, std dev value	
+	-1 … 1	
+
+tBodyGyroMag_mean	
+	25	
+	Time domain, Body Gyro Mag, mean value	
+	-1 … 1	
+
+tBodyGyroMag_std	
+	25	
+	Time domain, Body Gyro Mag, std dev value	
+	-1 … 1	
+
+tBodyGyroJerkMag_mean	
+	25	
+	Time domain, Body Gyro Jerk Mag, mean value	
+	-1 … 1	
+
+tBodyGyroJerkMag_std	
+	25	
+	Time domain, Body Gyro Jerk Mag, std dev value	
+	-1 … 1	
+
+fBodyAcc_mean_X	
+	25	
+	Freq. domain, Body Acceleration, mean value along X axis	
+	-1 … 1	
+
+fBodyAcc_mean_Y	
+	25	
+	Freq. domain, Body Acceleration, mean value along Y axis	
+	-1 … 1	
+
+fBodyAcc_mean_Z	
+	25	
+	Freq. domain, Body Acceleration, mean value along Z axis	
+	-1 … 1	
+
+fBodyAcc_std_X	
+	25	
+	Freq. domain, Body Acceleration, std dev value along X axis	
+	-1 … 1	
+
+fBodyAcc_std_Y	
+	25	
+	Freq. domain, Body Acceleration, std dev value along Y axis	
+	-1 … 1	
+
+fBodyAcc_std_Z	
+	25	
+	Freq. domain, Body Acceleration, std dev value along Z axis	
+	-1 … 1	
+
+fBodyAcc_meanFreq_X	
+	25	
+	Freq. domain, Body Acceleration, mean Frequency value along X axis	
+	-1 … 1	
+
+fBodyAcc_meanFreq_Y	
+	25	
+	Freq. domain, Body Acceleration, mean Frequency value along Y axis	
+	-1 … 1	
+
+fBodyAcc_meanFreq_Z	
+	25	
+	Freq. domain, Body Acceleration, mean Frequency value along Z axis	
+	-1 … 1	
+
+fBodyAccJerk_mean_X	
+	25	
+	Freq. domain, Body Acceleration Jerk, mean value along X axis	
+	-1 … 1	
+
+fBodyAccJerk_mean_Y	
+	25	
+	Freq. domain, Body Acceleration Jerk, mean value along Y axis	
+	-1 … 1	
+
+fBodyAccJerk_mean_Z	
+	25	
+	Freq. domain, Body Acceleration Jerk, mean value along Z axis	
+	-1 … 1	
+
+fBodyAccJerk_std_X	
+	25	
+	Freq. domain, Body Acceleration Jerk, std dev value along X axis	
+	-1 … 1	
+
+fBodyAccJerk_std_Y	
+	25	
+	Freq. domain, Body Acceleration Jerk, std dev value along Y axis	
+	-1 … 1	
+
+fBodyAccJerk_std_Z	
+	25	
+	Freq. domain, Body Acceleration Jerk, std dev value along Z axis	
+	-1 … 1	
+
+fBodyAccJerk_meanFreq_X	
+	25	
+	Freq. domain, Body Acceleration Jerk, mean Frequency value along X axis	
+	-1 … 1	
+
+fBodyAccJerk_meanFreq_Y	
+	25	
+	Freq. domain, Body Acceleration Jerk, mean Frequency  value along Y axis	
+	-1 … 1	
+
+fBodyAccJerk_meanFreq_Z	
+	25	
+	Freq. domain, Body Acceleration Jerk, mean Frequency value along Z axis	
+	-1 … 1	
+
+fBodyGyro_mean_X	
+	25	
+	Freq. domain, Body Gyro, mean value along X axis	
+	-1 … 1	
+
+fBodyGyro_mean_Y	
+	25	
+	Freq. domain, Body Gyro, mean value along Y axis	
+	-1 … 1	
+
+fBodyGyro_mean_Z	
+	25	
+	Freq. domain, Body Gyro, mean value along Z axis	
+	-1 … 1	
+
+fBodyGyro_std_X	
+	25	
+	Freq. domain, Body Gyro, std dev value along X axis	
+	-1 … 1	
+
+fBodyGyro_std_Y	
+	25	
+	Freq. domain, Body Gyro, std dev value along Y axis	
+	-1 … 1	
+
+fBodyGyro_std_Z	
+	25	
+	Freq. domain, Body Gyro, std dev value along Z axis	
+	-1 … 1	
+
+fBodyGyro_meanFreq_X	
+	25	
+	Freq. domain, Body Gyro, mean Frequency value along X axis	
+	-1 … 1	
+
+fBodyGyro_meanFreq_Y	
+	25	
+	Freq. domain, Body Gyro, mean Frequency value along Y axis	
+	-1 … 1	
+
+fBodyGyro_meanFreq_Z	
+	25	
+	Freq. domain, Body Gyro, mean Frequency value along Z axis	
+	-1 … 1	
+
+fBodyAccMag_mean	
+	25	
+	Freq. domain, Body Acceleration Mag, mean value	
+	-1 … 1	
+
+fBodyAccMag_std	
+	25	
+	Freq. domain, Body Acceleration Mag, std dev value	
+	-1 … 1	
+
+fBodyAccMag_meanFreq	
+	25	
+	Freq. domain, Body Acceleration Mag, mean Frequency value	
+	-1 … 1	
+
+fBodyBodyAccJerkMag_mean	
+	25	
+	Freq. domain, Body Acceleration Jerk Mag, mean value	
+	-1 … 1	
+
+fBodyBodyAccJerkMag_std	
+	25	
+	Freq. domain, Body Acceleration Jerk Mag, std dev value	
+	-1 … 1	
+
+fBodyBodyAccJerkMag_meanFreq	
+	25	
+	Freq. domain, Body Acceleration Jerk Mag, mean Frequency value	
+	-1 … 1	
+
+fBodyBodyGyroMag_mean	
+	25	
+	Freq. domain, Body Gyro  Mag, mean value	
+	-1 … 1	
+
+fBodyBodyGyroMag_std	
+	25	
+	Freq. domain, Body Gyro  Mag, std dev value	
+	-1 … 1	
+
+fBodyBodyGyroMag_meanFreq	
+	25	
+	Freq. domain, Body Gyro  Mag, mean Frequency value	
+	-1 … 1	
+
+fBodyBodyGyroJerkMag_mean	
+	25	
+	Freq. domain, Body Gyro Jerk Mag, mean value	
+	-1 … 1	
+
+fBodyBodyGyroJerkMag_std	
+	25	
+	Freq. domain, Body Gyro Jerk Mag, std dev value	
+	-1 … 1	
+
+fBodyBodyGyroJerkMag_meanFreq	
+	25	
+	Freq. domain, Body Gyro Jerk Mag, mean Frequency value	
+	-1 … 1	
+
